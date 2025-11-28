@@ -41,7 +41,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 <div align="left">
 
 - **Currently working on:** Retail Sales Dashboards & KPI-driven Insights  
-- **Currently learning:** Salesforce CRM Analytics, Google BigQuery, and GA4 for Marketing Analytics  
+- **Currently learning:** Salesforce CRM Analytics, Google Analytics, and GA4 for Marketing Analytics  
 - **Open to:** **Sales Analyst**, Retail Analytics, and Business Intelligence Roles  
 - **Reach me at:** saadattia.work@gmail.com  
 
