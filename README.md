@@ -274,7 +274,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
     <td><b>Health Care Data Analytics Case Study</b></td>
     <td>Healthcare • Operations Analytics</td>
     <td>SQL, Python, Power BI</td>
-    <td>Patient segmentation, wait-time analysis, KPI monitoring dashboards</td>
+    <td>Average Length of Stay (ALOS), Readmission Rate (30 Days), Average Satisfaction Score, Total Revenue & Profit Margin, Bed Occupancy Rate</td>
   </tr>
 
   <tr>
@@ -282,7 +282,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
     <td><b>Financial & Banking Analytics Case Study</b></td>
     <td>Finance • Risk Analytics</td>
     <td>SQL Server, Python, ML, Power BI</td>
-    <td>Credit risk modeling, loan performance KPIs, churn & default prediction</td>
+    <td>Credit Risk, loan performance KPIs, churn & default prediction</td>
   </tr>
 
   <tr>
