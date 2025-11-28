@@ -242,6 +242,60 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   <li>Data Visualization & Executive Storytelling (Power BI / Tableau)</li>
 </ul>
 
+<h2 align="center">Top 5 Data Analytics Case Studies</h2>
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Project Name</th>
+    <th>Domain</th>
+    <th>Tools Used</th>
+    <th>Key Deliverables</th>
+  </tr>
+
+  <tr>
+    <td><b>1</b></td>
+    <td><b>Retail Sales Case Study Analysis</b></td>
+    <td>Retail • Sales Analytics</td>
+    <td>Excel, SQL, Python, Power BI</td>
+    <td>Full ETL pipeline, EDA, KPI dashboard, AOV analysis, profitability insights</td>
+  </tr>
+
+  <tr>
+    <td><b>2</b></td>
+    <td><b>Stride Right – Revenue Decline Analysis & Turnaround Strategy</b></td>
+    <td>Consulting • Strategy • Sales</td>
+    <td>Excel, SQL, Python, Power BI</td>
+    <td>Revenue decline root cause, forecasting, executive dashboard, turnaround plan</td>
+  </tr>
+
+  <tr>
+    <td><b>3</b></td>
+    <td><b>Health Care Data Analytics Case Study</b></td>
+    <td>Healthcare • Operations Analytics</td>
+    <td>SQL, Python, Power BI</td>
+    <td>Patient segmentation, wait-time analysis, KPI monitoring dashboards</td>
+  </tr>
+
+  <tr>
+    <td><b>4</b></td>
+    <td><b>Financial & Banking Analytics Case Study</b></td>
+    <td>Finance • Risk Analytics</td>
+    <td>SQL Server, Python, ML, Power BI</td>
+    <td>Credit risk modeling, loan performance KPIs, churn & default prediction</td>
+  </tr>
+
+  <tr>
+    <td><b>5</b></td>
+    <td><b>E-commerce Analytics Case Study</b></td>
+    <td>E-commerce • Marketing Analytics</td>
+    <td>Python, SQL, Tableau</td>
+    <td>Cohort analysis, RFM segmentation, CAC/LTV, product analytics dashboard</td>
+  </tr>
+
+</table>
+
+
 
 </div>
 
