@@ -255,7 +255,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
   <tr>
     <td><b>1</b></td>
-    <td><b>Retail Sales Case Study Analysis</b></td>
+    <td><b><a href="https://github.com/Saad-Attia/Retail_Sales_Case_Study_Analysis" target="_blank">Retail Sales Case Study Analysis</a></b></td>
     <td>Retail • Sales Analytics</td>
     <td>Excel, SQL, Python, Power BI</td>
     <td>Full ETL pipeline, EDA, KPI dashboard, AOV analysis, profitability insights</td>
@@ -263,7 +263,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
   <tr>
     <td><b>2</b></td>
-    <td><b>Stride Right – Revenue Decline Analysis & Turnaround Strategy</b></td>
+    <td><b><a href="https://github.com/Saad-Attia/Stride-Right-Revenue-Decline-Analysis---Turnaround-Strategy" target="_blank">Stride Right – Revenue Decline Analysis & Turnaround Strategy</a></b></td>
     <td>Consulting • Strategy • Sales</td>
     <td>Excel, SQL, Python, Power BI</td>
     <td>Revenue decline root cause, forecasting, executive dashboard, turnaround plan</td>
@@ -271,7 +271,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
   <tr>
     <td><b>3</b></td>
-    <td><b>Health Care Data Analytics Case Study</b></td>
+    <td><b><a href="https://github.com/Saad-Attia/Health_Care_Case_Study" target="_blank">Health Care Data Analytics Case Study</a></b></td>
     <td>Healthcare • Operations Analytics</td>
     <td>SQL, Python, Power BI</td>
     <td>Average Length of Stay (ALOS), Readmission Rate (30 Days), Average Satisfaction Score, Total Revenue & Profit Margin, Bed Occupancy Rate</td>
@@ -279,7 +279,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
   <tr>
     <td><b>4</b></td>
-    <td><b>Financial & Banking Analytics Case Study</b></td>
+    <td><b><a href="https://github.com/Saad-Attia/Financial_And_Banking_Analytics_Cate_Study" target="_blank">Financial & Banking Analytics Case Study</a></b></td>
     <td>Finance • Risk Analytics</td>
     <td>SQL Server, Python, ML, Power BI</td>
     <td>Credit Risk, loan performance KPIs, churn & default prediction</td>
@@ -287,7 +287,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
 
   <tr>
     <td><b>5</b></td>
-    <td><b>E-commerce Analytics Case Study</b></td>
+    <td><b><a href="https://github.com/Saad-Attia/E-commerce_Case_Study" target="_blank">E-commerce Analytics Case Study</a></b></td>
     <td>E-commerce • Marketing Analytics</td>
     <td>Python, SQL, Tableau</td>
     <td>Cohort analysis, RFM segmentation, CAC/LTV, product analytics dashboard</td>
