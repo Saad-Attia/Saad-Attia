@@ -242,7 +242,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   <li>Data Visualization & Executive Storytelling (Power BI / Tableau)</li>
 </ul>
 
-<h2 align="center">Top 5 Data Analytics Case Studies</h2>
+<h2 align="center">Top 7 Data Analytics Case Studies</h2>
 
 <table>
   <tr>
@@ -253,8 +253,24 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
     <th>Key Deliverables</th>
   </tr>
 
-  <tr>
+ <tr>
     <td><b>1</b></td>
+    <td><b><a href="https://github.com/Saad-Attia/Profit360---Dimensional-Sales-Intelligence" target="_blank">Profit360 — Dimensional Sales Intelligence</a></b></td>
+    <td>Retail • Sales & Profitability Analytics</td>
+    <td>SQL, Python, Power BI</td>
+    <td>Star Schema data model, dimensional profitability analysis, cross-dimensional insights, executive dashboard with KPIs by Product, Customer Segment & Time</td>
+  </tr>
+
+  <tr>
+    <td><b>2</b></td>
+    <td><b><a href="https://github.com/Saad-Attia/HLDY_2025-Campaign---Q4-Performance-Analysis" target="_blank">HLDY_2025 Campaign & Q4 Performance Analysis</a></b></td>
+    <td>Marketing • Campaign Analytics</td>
+    <td>SQL, Python, Power BI</td>
+    <td>Campaign ROI (GPROAS), CPA analysis, customer segmentation, conversion timing, profitability-first channel insights, interactive Power BI dashboard</td>
+  </tr>
+
+  <tr>
+    <td><b>3</b></td>
     <td><b><a href="https://github.com/Saad-Attia/Retail_Sales_Case_Study_Analysis" target="_blank">Retail Sales Case Study Analysis</a></b></td>
     <td>Retail • Sales Analytics</td>
     <td>Excel, SQL, Python, Power BI</td>
@@ -262,7 +278,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   </tr>
 
   <tr>
-    <td><b>2</b></td>
+    <td><b>4</b></td>
     <td><b><a href="https://github.com/Saad-Attia/Stride-Right-Revenue-Decline-Analysis---Turnaround-Strategy" target="_blank">Stride Right – Revenue Decline Analysis & Turnaround Strategy</a></b></td>
     <td>Consulting • Strategy • Sales</td>
     <td>Excel, SQL, Python, Power BI</td>
@@ -270,31 +286,15 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   </tr>
 
   <tr>
-    <td><b>3</b></td>
+    <td><b>5</b></td>
     <td><b><a href="https://github.com/Saad-Attia/Health_Care_Case_Study" target="_blank">Health Care Data Analytics Case Study</a></b></td>
     <td>Healthcare • Operations Analytics</td>
     <td>SQL, Python, Power BI</td>
-    <td>Average Length of Stay (ALOS), Readmission Rate (30 Days), Average Satisfaction Score, Total Revenue & Profit Margin, Bed Occupancy Rate</td>
+    <td>Average Length of Stay (ALOS), Readmission Rate (30 Days), Avg Satisfaction Score, Total Revenue & Profit Margin, Bed Occupancy Rate</td>
   </tr>
-
-  <tr>
-    <td><b>4</b></td>
-    <td><b><a href="https://github.com/Saad-Attia/Financial_And_Banking_Analytics_Cate_Study" target="_blank">Financial & Banking Analytics Case Study</a></b></td>
-    <td>Finance • Risk Analytics</td>
-    <td>SQL Server, Python, ML, Power BI</td>
-    <td>Credit Risk, loan performance KPIs, churn & default prediction</td>
-  </tr>
-
-  <tr>
-    <td><b>5</b></td>
-    <td><b><a href="https://github.com/Saad-Attia/E-commerce_Case_Study" target="_blank">E-commerce Analytics Case Study</a></b></td>
-    <td>E-commerce • Marketing Analytics</td>
-    <td>Python, SQL, Tableau</td>
-    <td>Cohort analysis, RFM segmentation, CAC/LTV, product analytics dashboard</td>
-  </tr>
+  
 
 </table>
-
 
 
 </div>
