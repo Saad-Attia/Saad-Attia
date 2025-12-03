@@ -242,7 +242,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   <li>Data Visualization & Executive Storytelling (Power BI / Tableau)</li>
 </ul>
 
-<h2 align="center">Top 7 Data Analytics Case Studies</h2>
+<h2 align="center">Top 5 Data Analytics Projects</h2>
 
 <table>
   <tr>
