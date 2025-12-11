@@ -242,7 +242,9 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   <li>Data Visualization & Executive Storytelling (Power BI / Tableau)</li>
 </ul>
 
-<h2 align="center">Top 5 Data Analytics Projects</h2>
+</div>
+
+<h2 align="center">Top Data Analytics Projects</h2>
 
 <table>
   <tr>
@@ -253,8 +255,16 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
     <th>Key Deliverables</th>
   </tr>
 
- <tr>
+  <tr>
     <td><b>1</b></td>
+    <td><b><a href="https://github.com/Saad-Attia/Q4-Multi-Channel-Marketing-Performance---Forecast-Alignment" target="_blank">Q4 Multi-Channel Marketing Performance & Forecast Alignment</a></b></td>
+    <td>Marketing • Performance Analytics</td>
+    <td>SQL, Python, Power BI</td>
+    <td>Spend efficiency analysis, forecast accuracy evaluation, product launch impact, multi-dashboard Power BI suite, full insights & recommendations</td>
+  </tr>
+
+  <tr>
+    <td><b>2</b></td>
     <td><b><a href="https://github.com/Saad-Attia/Profit360---Dimensional-Sales-Intelligence" target="_blank">Profit360 — Dimensional Sales Intelligence</a></b></td>
     <td>Retail • Sales & Profitability Analytics</td>
     <td>SQL, Python, Power BI</td>
@@ -262,7 +272,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   </tr>
 
   <tr>
-    <td><b>2</b></td>
+    <td><b>3</b></td>
     <td><b><a href="https://github.com/Saad-Attia/HLDY_2025-Campaign---Q4-Performance-Analysis" target="_blank">HLDY_2025 Campaign & Q4 Performance Analysis</a></b></td>
     <td>Marketing • Campaign Analytics</td>
     <td>SQL, Python, Power BI</td>
@@ -270,7 +280,7 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   </tr>
 
   <tr>
-    <td><b>3</b></td>
+    <td><b>4</b></td>
     <td><b><a href="https://github.com/Saad-Attia/Retail_Sales_Case_Study_Analysis" target="_blank">Retail Sales Case Study Analysis</a></b></td>
     <td>Retail • Sales Analytics</td>
     <td>Excel, SQL, Python, Power BI</td>
@@ -278,26 +288,17 @@ Passionate about uncovering what drives customer behavior and enabling data-driv
   </tr>
 
   <tr>
-    <td><b>4</b></td>
+    <td><b>5</b></td>
     <td><b><a href="https://github.com/Saad-Attia/Stride-Right-Revenue-Decline-Analysis---Turnaround-Strategy" target="_blank">Stride Right – Revenue Decline Analysis & Turnaround Strategy</a></b></td>
     <td>Consulting • Strategy • Sales</td>
     <td>Excel, SQL, Python, Power BI</td>
     <td>Revenue decline root cause, forecasting, executive dashboard, turnaround plan</td>
   </tr>
 
-  <tr>
-    <td><b>5</b></td>
-    <td><b><a href="https://github.com/Saad-Attia/Health_Care_Case_Study" target="_blank">Health Care Data Analytics Case Study</a></b></td>
-    <td>Healthcare • Operations Analytics</td>
-    <td>SQL, Python, Power BI</td>
-    <td>Average Length of Stay (ALOS), Readmission Rate (30 Days), Avg Satisfaction Score, Total Revenue & Profit Margin, Bed Occupancy Rate</td>
-  </tr>
-  
-
 </table>
 
-
 </div>
+
 
 <h2 align="center">Certifications</h2>
 
